@@ -1,0 +1,10 @@
+.card {
+  background: #24365d;
+  padding: 25px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.card h2 {
+  margin-bottom: 10px;
+}
